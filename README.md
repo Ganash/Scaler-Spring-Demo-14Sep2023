@@ -6,23 +6,24 @@ Creating a simple Spring Web API to greet users.
 URL: https://start.spring.io/
 
 Project: Maven
+
 Language: Java
+
 Spring Boot: 3.2.0
+
 Project MetaData:
 
-Group: dev.ganesh
 
-Artifact: productcatalogservice
+| Tables        | Are
+| ------------- |:-------------:
+| Group         | com.springdemo
+| Artifact      | scalerspringdemo
+| Name          | scalerspringdemo
+| Description   | Demo Project for Spring Boot
+| Package Name  | com.springdemo.scalerspringdemo
+| Packaging     | Jar
+| Java          | 21
 
-Name: productcatalogservice
-
-Description: Demo Project for Spring Boot
-
-Package Name: dev.ganesh.productcatalogservice
-
-Packaging: Jar
-
-Java: 21
 
 Spring Dependencies:
 1. Lombok
