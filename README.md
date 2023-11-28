@@ -11,11 +11,17 @@ Spring Boot: 3.2.0
 Project MetaData:
 
 Group: dev.ganesh
+
 Artifact: productcatalogservice
+
 Name: productcatalogservice
+
 Description: Demo Project for Spring Boot
+
 Package Name: dev.ganesh.productcatalogservice
+
 Packaging: Jar
+
 Java: 21
 
 Spring Dependencies:
